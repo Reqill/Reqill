@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reqill&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reqill&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reqill&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reqill&layout=compact&theme=dracula&hide_border=false)
 
 
 ---
